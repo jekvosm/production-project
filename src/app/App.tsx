@@ -1,4 +1,4 @@
-import { Suspense } from 'react'
+import { Suspense, useEffect } from 'react'
 
 import { AppRouter } from './providers/router'
 import { useTheme } from './providers/ThemeProvider'
