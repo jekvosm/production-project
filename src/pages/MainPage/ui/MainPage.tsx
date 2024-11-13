@@ -1,4 +1,6 @@
 import { BugButton } from 'app/providers/ErrorBoundary'
+import { Counter } from 'entites/Counter'
+import { Fragment } from 'react'
 import { useTranslation } from 'react-i18next'
 
 const MainPage = () => {

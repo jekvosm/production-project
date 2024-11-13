@@ -7,5 +7,7 @@
   "Переключить": "Toggle",
   "Короткий язык": "En",
   "О сайте": "About us",
-  "Главная": "Main"
+  "Главная": "Main",
+  "increment": "increment",
+  "decrement": "decrement"
 }
