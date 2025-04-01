@@ -12,5 +12,8 @@
   "decrement": "decrement",
   "Войти": "Log in",
   "Введите логин": "Username",
-  "Введите пароль": "Password"
+  "Введите пароль": "Password",
+  "Форма авторизации": "Authorization form",
+  "Вы ввели неверный логин или пароль": "Uncorrect username or password",
+  "Выйти": "Exit"
 }
